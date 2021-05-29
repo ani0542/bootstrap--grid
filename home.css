@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --div-height:100vh;
+    --bg-size: 100% 100%;
+}
+
+
+  /* .center_div .top_div{
+        height: calc(var(--div-height)-40vh);
+}
+
+.center_div .bottom_first_div{
+    height: calc(var(--div-height)-50vh);
+}
+
+.center_div .bottom_sec_div{
+    height: calc(var(--div-height)-30vh);
+} */
+
+
+.top_div{
+    height: 45vh;
+}
+
+.bottom_first_div{
+    height: 35vh;
+}
+
+.bottom_sec_div{
+    height: 55vh; 
+}
